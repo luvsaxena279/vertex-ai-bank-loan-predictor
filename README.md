@@ -1,7 +1,5 @@
 # Bank Housing Loan Prediction with Vertex AI AutoML 🚀
 
-[![Model Status](https://img.shields.io/badge/Model-Training-brightgreen)](https://cloud.google.com/vertex-ai)
-
 **90-minute no-code ML portfolio project: Predicts active housing loans using Google Vertex AI AutoML**
 
 ## 📊 Business Problem
@@ -35,18 +33,18 @@ Trained AutoML (1 node-hour)
 Evaluated metrics + feature importance
 Deployed to online prediction endpoint
 
-## 📊 Results (Fill when training completes)
+## 📊 Results
 
 | Metric               | Value  | Benchmark |
 | -------------------- | ------ | --------- |
-| AUC ROC              | [FILL] | 0.70-0.80 |
-| Accuracy             | [FILL] | 85-90%    |
-| Precision (loan=yes) | [FILL] | 70-80%    |
-| Recall (loan=yes)    | [FILL] | 65-75%    |
+| AUC ROC              | 0.939 | 0.70-0.80 |
+| Accuracy             | 0.937 | 85-90%    |
+| Precision (loan=yes) | 88.3 | 70-80%    |
+| Recall (loan=yes)    | 88.3 | 65-75%    |
 
 ## 🖼️ Visual Proof (Add screenshots here)
 
-![Dataset Schema](screenshots/datasetscreenshots/training-progressscreenshots/model-metricsscreenshots/feature-importscreenshots/endpoint-deployscreenshots/sample-predictionan-endpoint-v1
+[Dataset Schema](screenshots/datasetscreenshots/training-progressscreenshots/model-metricsscreenshots/feature-importscreenshots/endpoint-deployscreenshots/sample-predictionan-endpoint-v1
 Status: Ready for real-time predictions
 Cost: ~$0.50 (free tier credits)
 Integration: REST API / Python client

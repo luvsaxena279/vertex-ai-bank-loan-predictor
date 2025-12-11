@@ -36,5 +36,16 @@ Endpoint: `bank-loan-endpoint-v1`
 - Training cost: ~$0.50 (free tier)
 - Production-ready deployment in <2 min
 
+## Training Timeline
+- Dataset: 45,211 rows × 17 columns
+- Training time: [X hours] on 1 node-hour budget
+- Cost: ~$0.50 (covered by free credits) [web:15]
+
+## Expected Metrics (Bank Loan Prediction)
+Typical results for this dataset:
+- AUC ROC: 0.70-0.80 
+- Accuracy: 85-90%
+- Key features: housing, balance, job [file:115]
+
 ---
 **Built as AI generalist portfolio project in 90 minutes** [memory:21]

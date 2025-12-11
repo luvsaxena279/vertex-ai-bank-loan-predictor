@@ -42,9 +42,14 @@ Deployed to online prediction endpoint
 | Precision (loan=yes) | 88.3 | 70-80%    |
 | Recall (loan=yes)    | 88.3 | 65-75%    |
 
-## 🖼️ Visual Proof (Add screenshots here)
+## 🖼️ Visual Proof 
 
-[Dataset Schema](screenshots/datasetscreenshots/training-progressscreenshots/model-metricsscreenshots/feature-importscreenshots/endpoint-deployscreenshots/sample-predictionan-endpoint-v1
+![Dataset Schema](screenshots/dataset-schema.png)
+![Training Progress](screenshots/training-progress.png)
+![Model Metrics](screenshots/model-metrics.png)
+![Feature Importance](screenshots/feature-importance.png)
+![Live Endpoint](screenshots/endpoint-deployed.png)
+![Prediction Test](screenshots/sample-prediction.png)
 Status: Ready for real-time predictions
 Cost: ~$0.50 (free tier credits)
 Integration: REST API / Python client

@@ -73,5 +73,5 @@ TOTAL: 90+ min
 - [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 
 ---
-**Built by [Luv Saxena] - AI Generalist Portfolio Project**  
+**Built by Luv Saxena - AI Generalist Portfolio Project**  
 *December 2025*
